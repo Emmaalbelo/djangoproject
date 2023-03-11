@@ -1,0 +1,8 @@
+#en esta carpeta agregamos 
+#todos los archivos que queremos que git
+#ignore
+
+Tutorial_Django.py
+
+#luego de agregar al listado, pasamos a storage a 
+#.gitignore por medio de add
